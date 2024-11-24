@@ -13,35 +13,35 @@ interface ExperienceItem {
 const experiences: ExperienceItem[] = [
   {
     company: 'Dell Technologies',
-    logo: '/logos/dell.svg',
+    logo: 'https://media.licdn.com/dms/image/v2/D560BAQF0hQrvoqdRNw/company-logo_100_100/company-logo_100_100/0/1725894960637/delltechnologies_logo?e=1740009600&v=beta&t=Z_RuboXe5ra6Bpw2F8L2y3U-M31sqN0QQPHeI2-xHV0',
     role: 'Principal DevOps Engineer',
     period: 'Apr 2024 - Present',
     location: 'Israel'
   },
   {
     company: 'Tipalti',
-    logo: '/logos/tipalti.svg',
+    logo: 'https://media.licdn.com/dms/image/v2/D560BAQFnezGOwZzLOA/company-logo_100_100/company-logo_100_100/0/1729114895117/tipalti_logo?e=1740009600&v=beta&t=I_0Q0soCOIQZqNFoRb7lJ-Q8ub6U1DdEtBKixnRNHz4',
     role: 'DevOps Engineer',
     period: 'Jul 2021 - Apr 2024 · 2 yrs 10 mos',
     location: 'Israel'
   },
   {
     company: 'Varonis',
-    logo: '/logos/varonis.svg',
+    logo: 'https://media.licdn.com/dms/image/v2/D4E0BAQEbc8D95-xLVg/company-logo_100_100/company-logo_100_100/0/1707749515223/varonis_logo?e=1740009600&v=beta&t=suDiJ0T8WVSYwDe8Rh5082-hDxUmP6dJKF3e6twMovA',
     role: 'DevOps & ALM Engineer',
     period: 'Mar 2020 - Jul 2021 · 1 yr 5 mos',
     location: 'Israel'
   },
   {
     company: 'Clal Insurance',
-    logo: '/logos/clal.svg',
+    logo: 'https://media.licdn.com/dms/image/v2/D4D0BAQHGDrjQrJfUVA/company-logo_100_100/company-logo_100_100/0/1726380804407?e=1740009600&v=beta&t=OCaTFoE3eaCiNQut9-8AbH4mjad2xa-ZEKlcovrUyWM',
     role: 'DevOps Engineer',
     period: 'Mar 2019 - Mar 2020 · 1 yr 1 mo',
     location: 'Tel Aviv Area, Israel'
   },
   {
     company: 'Sela Group',
-    logo: '/logos/sela.svg',
+    logo: 'https://media.licdn.com/dms/image/v2/D560BAQFHj3K7F_2uyQ/company-logo_100_100/company-logo_100_100/0/1691585789445/sela_group_logo?e=1740009600&v=beta&t=6BQ70IJlLIWIVAo0e75j--lMVWjxTY2E8mwpo7KHKKw',
     role: 'DevOps & ALM Engineer',
     period: 'Dec 2017 - Mar 2019 · 1 yr 4 mos',
     location: 'Israel'

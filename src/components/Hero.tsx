@@ -92,7 +92,7 @@ export default function Hero() {
           >
             <div className="w-32 h-32 rounded-full border-4 border-sky-300 overflow-hidden mx-auto mb-8 relative">
               <Image 
-                src="https://i.sstatic.net/iHtdS.jpg?s=256"
+                src="https://i.ibb.co/b1H4phg/26063853.jpg"
                 alt="Shayki Abramczyk"
                 fill
                 className="object-cover"
